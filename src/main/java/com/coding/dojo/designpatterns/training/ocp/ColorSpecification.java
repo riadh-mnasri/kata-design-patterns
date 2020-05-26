@@ -1,4 +1,4 @@
-package com.coding.dojo.designpatterns.ocp;
+package com.coding.dojo.designpatterns.training.ocp;
 
 public class ColorSpecification implements Specification<Product> {
 

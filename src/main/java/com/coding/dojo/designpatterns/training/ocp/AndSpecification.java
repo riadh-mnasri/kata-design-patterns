@@ -1,4 +1,4 @@
-package com.coding.dojo.designpatterns.ocp;
+package com.coding.dojo.designpatterns.training.ocp;
 
 public class AndSpecification<T> implements Specification<T> {
     public AndSpecification(Specification<T> first, Specification<T> second) {
